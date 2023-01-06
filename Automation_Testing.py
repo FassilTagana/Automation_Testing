@@ -1,6 +1,6 @@
 # Created by: Fassil Tagana.
 # Created on: 02/01/2023
-# The program is used to run automated test in web environment.
+# The program is used to run automated tests in web environment.
 # ____________________________________________________________________________________________________
 import time
 import HTMLTestRunner
